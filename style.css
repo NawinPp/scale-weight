@@ -1,0 +1,65 @@
+body {
+    background: #5a5a5a;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.box {
+    box-shadow:0 40px 10px 5px rgba(0,0,0,0.4);
+    margin:100px auto;
+    height: 290px;
+    position: relative;
+    width: 500px;
+}
+.upper {
+    border-radius:5px 5px 0 0;
+    background:#f5f5f5;
+    height: 110px;
+    padding: 10px;
+    font-family:'Advent Pro';
+}
+.scale {
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 60px;
+
+}
+.lower {
+    background:#f5e7ba;
+    border-radius:0 0 5px 5px;
+    font-family:'Advent Pro';
+    font-weight:2000;
+    height:150px;
+    width:100%;
+}
+h2 {
+    font-size: 26px;
+}
+ .title {
+    list-style: none;
+}
+.info {
+    float: left;
+    height: 100%;
+    padding-top: 10px;
+    text-align: center;
+    width: 30%;
+}
+.zero {
+    text-align: center;
+    font-size: 15px;
+    height: 10px;
+}
+.bath {
+    font-size: 20px;
+}
+.lb {
+    font-size: 20px;
+}
+.g {
+    font-size: 20px;
+}
+.zero {
+    font-size: 25px;
+}
