@@ -23,7 +23,14 @@ body {
     justify-content: center;
     flex-direction: column;
     height: 60px;
-
+}
+.pricekg {
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 7px;
+    width: 107%;
 }
 .lower {
     background:#f5e7ba;
@@ -51,7 +58,7 @@ h2 {
     font-size: 15px;
     height: 10px;
 }
-.bath {
+.baht {
     font-size: 20px;
 }
 .lb {
